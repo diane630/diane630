@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diane630. Feel free to call me Daiyun/Diane!
-- 👀 I’m interested in exploring new techniques, Machine Learning/ Full stack web development/...
+- 👀 I’m interested in exploring new techniques, Machine Learning/ Full stack web development/anything cool!
 - 🌱 I’m currently pursueing Master's of Computer Science degree at University of Illinois at Urbana-Champaign!
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me... Here's my LinkedIn: https://www.linkedin.com/in/daiyun-xu/
